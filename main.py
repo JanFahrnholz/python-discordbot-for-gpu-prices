@@ -36,7 +36,6 @@ def findLowestPriceFor(listOfGraficscards):
         except:
             price = "No info"
         finally:
-            time.sleep(1)
             answer += gc + ": " + price.replace("+", " ") + "\n"
 
     return answer
