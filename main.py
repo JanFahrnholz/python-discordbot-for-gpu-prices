@@ -3,7 +3,7 @@ import discord
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-TOKEN = 'ODA4NzU4NTQ4MzM0NTEwMTMx.YCLNFw.Cges8xWeELGCrX45zTEHN0vAZYY'
+TOKEN = 'YOUR_TOKEN'
 
 client = discord.Client()
 
